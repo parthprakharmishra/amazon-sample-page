@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazon-sample-page/static/css/main.ce5bd765.chunk.css",
+    "main.js": "/amazon-sample-page/static/js/main.57583417.chunk.js",
+    "main.js.map": "/amazon-sample-page/static/js/main.57583417.chunk.js.map",
+    "runtime-main.js": "/amazon-sample-page/static/js/runtime-main.64b6d57c.js",
+    "runtime-main.js.map": "/amazon-sample-page/static/js/runtime-main.64b6d57c.js.map",
+    "static/js/2.53a3d564.chunk.js": "/amazon-sample-page/static/js/2.53a3d564.chunk.js",
+    "static/js/2.53a3d564.chunk.js.map": "/amazon-sample-page/static/js/2.53a3d564.chunk.js.map",
+    "static/js/3.6ff37b1f.chunk.js": "/amazon-sample-page/static/js/3.6ff37b1f.chunk.js",
+    "static/js/3.6ff37b1f.chunk.js.map": "/amazon-sample-page/static/js/3.6ff37b1f.chunk.js.map",
+    "index.html": "/amazon-sample-page/index.html",
+    "static/css/main.ce5bd765.chunk.css.map": "/amazon-sample-page/static/css/main.ce5bd765.chunk.css.map",
+    "static/js/2.53a3d564.chunk.js.LICENSE.txt": "/amazon-sample-page/static/js/2.53a3d564.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b6d57c.js",
+    "static/js/2.53a3d564.chunk.js",
+    "static/css/main.ce5bd765.chunk.css",
+    "static/js/main.57583417.chunk.js"
+  ]
+}
